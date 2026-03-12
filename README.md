@@ -32,7 +32,7 @@ Java-разработчик, создании бэкенд-приложений.
 
 ---
 
-## 📬 Контакты
+### Контакты
 📧 **Email:** [radist.al@yandex.ru](mailto:radist.al@yandex.ru)  
 📱 **Telegram:** [@saiman58](https://t.me/saiman58)
 

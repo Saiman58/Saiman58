@@ -6,7 +6,7 @@ Java-разработчик, создании бэкенд-приложений.
 
 ## 🛠 Стек технологий
 
-![Java](https://img.shields.io/badge/Java-11-orange)
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-REST-blue)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-Hibernate-brightgreen)
